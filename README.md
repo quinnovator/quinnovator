@@ -1,6 +1,6 @@
 ### Hi, I'm Jack 👋
 
-I'm the engineer customers talk to: I learn what they need, build it, and stay until it runs in production. Mostly that means LLM agents, the evals that make them trustworthy, and the infrastructure underneath.
+I'm the engineer customers talk to: I learn what they need, build it, and stay until it runs in production. Mostly that means AI agents, evals that judge them, and the infrastructure underneath.
 
 **Now**
 - **Founding Engineer at D2 Labs.** Sole engineer on two ed-tech platforms that deploy LLM agents in the public sector. MyVoice is used by ~20,000 educators across six states. Students First took North Dakota's statewide school system from kickoff to go-live in about a month.
